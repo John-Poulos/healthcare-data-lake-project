@@ -1,0 +1,11 @@
+patient_id,vaccine_name,cvx_code,administration_date,dose_number,route,site,lot_number,manufacturer,administered_by_npi
+PT00001,DTaP,111,1/6/2024,1,Intramuscular,Left deltoid,LOT974176,Moderna,5978019326
+PT00001,Hib,088,1/31/2024,1,Subcutaneous,Left deltoid,LOT247831,GSK,1310806972
+PT00001,Hepatitis B,007,1/1/2024,1,Subcutaneous,Right thigh,LOT791778,Sanofi,3521050395
+PT00001,MMR,037,1/8/2024,1,Subcutaneous,Right deltoid,LOT456955,Merck,2634911308
+PT00001,Varicella,139,1/19/2024,1,Intramuscular,Left thigh,LOT614961,Sanofi,6209182860
+PT00001,Polio,179,1/2/2024,1,Intramuscular,Left deltoid,LOT312005,GSK,8030314152
+PT00001,Influenza,141,9/5/2024,1,Intramuscular,Left deltoid,FLU716884,Seqirus,6683003211
+PT00001,Influenza,141,11/18/2025,1,Intramuscular,Left deltoid,FLU379935,Seqirus,8984839904
+PT00002,Influenza,141,10/26/2024,1,Intramuscular,Left deltoid,FLU145623,GSK,1188878110
+PT00002,Influenza,141,10/9/2025,1,Intramuscular,Left deltoid,FLU495656,Sanofi,8866513230

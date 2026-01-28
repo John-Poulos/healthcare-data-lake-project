@@ -1,0 +1,11 @@
+patient_id,diagnosis_code,diagnosis_description,diagnosis_date,status,is_chronic,diagnosing_provider_npi
+PT00001,K21.9,GERD,10/17/2023,Active,No,9697354961
+PT00002,E78.5,Hyperlipidemia,10/9/2022,Active,No,1958682846
+PT00002,K21.9,GERD,4/15/2022,Active,No,7831113321
+PT00002,J44.9,COPD,2/2/2022,Active,No,1402418010
+PT00002,N40.0,Benign Prostatic Hyperplasia,8/27/2022,Active,No,3410529190
+PT00002,N32.81,Overactive Bladder,10/28/2023,Resolved,No,6241752544
+PT00003,I10,Hypertension,8/27/2023,Active,Yes,4460967357
+PT00003,E78.5,Hyperlipidemia,12/16/2023,Resolved,No,6756332150
+PT00003,K21.9,GERD,6/9/2022,Active,No,2445662585
+PT00003,N40.0,Benign Prostatic Hyperplasia,4/5/2022,Resolved,No,5710360983

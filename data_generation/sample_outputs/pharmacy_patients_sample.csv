@@ -1,1 +1,11 @@
-
+patient_id,first_name,last_name,date_of_birth,age,gender,ssn,phone,email,address,city,state,zip_code,conditions,drug_allergies,food_allergies,created_date
+PT00001,Mark,Johnson,1/27/1990,36,M,592-25-1140,(246) 877-4733,mark.johnson@yahoo.com,21819 Johnson Course,East William,AK,74064,GERD,NKDA,None,1/1/2024
+PT00002,Cristian,Santos,1/27/1929,97,M,763-72-8831,(469) 964-8019,cristian.santos@hotmail.com,79402 Peterson Drives Apt. 511,Davisstad,PA,35172,Hyperlipidemia|GERD|COPD|Benign Prostatic Hyperplasia|Overactive Bladder,NKDA,None,1/1/2024
+PT00003,Robert,Blair,1/28/1952,74,M,166-70-8690,(200) 813-6310,robert.blair@hotmail.com,1849 Ray Squares,North Donnaport,CO,31013,Hypertension|Hyperlipidemia|GERD|Benign Prostatic Hyperplasia,Aspirin,None,1/1/2024
+PT00004,Sean,James,1/28/1964,62,M,070-05-5414,(272) 726-4899,sean.james@yahoo.com,55341 Amanda Gardens Apt. 764,Lake Mark,WI,07832,Hypertension|Hyperlipidemia|Hypothyroidism|Benign Prostatic Hyperplasia,NKDA,None,1/1/2024
+PT00005,Jeremy,Johnson,1/27/2006,20,X,243-22-6659,(697) 692-4502,jeremy.johnson@yahoo.com,1395 Diana Locks Suite 242,Lake Anna,KS,98413,Migraine,NKDA,None,1/1/2024
+PT00006,Kevin,Hurst,1/27/2002,24,M,324-34-3347,(885) 933-6147,kevin.hurst@yahoo.com,28710 Eric Estate Suite 916,Carlsonmouth,NC,33454,Asthma,NKDA,None,1/1/2024
+PT00007,Wesley,Valencia,1/28/2012,14,M,271-65-8005,(457) 252-2512,wesley.valencia@gmail.com,845 Kelly Estate,Smithview,NY,23917,Anxiety Disorder|Chronic Pain,Sulfa drugs,None,1/1/2024
+PT00008,Jordan,Rodriguez,1/27/1945,81,M,341-53-4066,(473) 363-2771,jordan.rodriguez@hotmail.com,893 Nathaniel Estates Apt. 957,North Sarahport,IA,08093,Hypertension|Depression|Osteoarthritis|COPD|Benign Prostatic Hyperplasia|Overactive Bladder,NKDA,None,1/1/2024
+PT00009,David,Bradley,1/27/1965,61,M,737-95-3229,(572) 641-2146,david.bradley@gmail.com,718 David Mountains,West Allison,PA,55962,Hyperlipidemia|GERD|Hypothyroidism|Benign Prostatic Hyperplasia,NKDA,Soy,1/1/2024
+PT00010,Tracey,Hickman,1/28/1956,70,F,231-26-2415,(225) 247-5011,tracey.hickman@hotmail.com,465 Lam Mission,East Jeffreymouth,AK,77611,Hypertension|Hyperlipidemia|Osteoarthritis|COPD,NKDA,None,1/1/2024

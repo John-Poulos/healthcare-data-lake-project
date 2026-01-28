@@ -1,0 +1,11 @@
+rx_number,patient_id,medication_name,ndc,quantity,days_supply,written_date,fill_date,refill_number,sig,prescriber_npi,copay,condition,is_rems
+RX00000001,PT00001,Famotidine,00093-2748-01,90,90,9/11/2024,9/16/2024,0,Inject subcutaneously as directed,2889973756,26.62,GERD,No
+RX00000002,PT00001,Lansoprazole,00093-2035-98,90,90,1/7/2024,1/12/2024,0,Take 1-2 tablets by mouth every 4-6 hours as needed,1767919393,39.71,GERD,No
+RX00000003,PT00001,Esomeprazole,00093-7711-28,90,90,4/6/2024,4/13/2024,0,Inject subcutaneously as directed,1995585447,62.58,GERD,No
+RX00000004,PT00001,Famotidine,00093-2748-01,60,60,11/8/2024,11/13/2024,0,Take 1 tablet by mouth twice daily,3885733726,52.93,GERD,No
+RX00000005,PT00001,Pantoprazole,00093-5129-98,30,30,7/15/2024,7/21/2024,0,Take 1 capsule by mouth once daily,8415124854,27.8,GERD,No
+RX00000006,PT00001,Esomeprazole,00093-7711-28,60,60,4/28/2025,5/2/2025,0,Apply topically as directed,6649370845,55.87,GERD,No
+RX00000007,PT00001,Lansoprazole,00093-2035-98,30,30,7/30/2025,8/5/2025,0,Take 1 tablet by mouth at bedtime,7050697422,8.87,GERD,No
+RX00000008,PT00001,Lansoprazole,00093-2035-98,30,30,10/7/2024,10/7/2024,0,Take 2 tablets by mouth twice daily,6394175396,51.34,GERD,No
+RX00000009,PT00001,Omeprazole,00093-7267-56,60,60,11/25/2024,12/1/2024,0,Inject subcutaneously as directed,7455092839,44.2,GERD,No
+RX00000010,PT00001,Omeprazole,00093-7267-56,90,90,3/17/2024,3/20/2024,0,Take 1-2 tablets by mouth every 4-6 hours as needed,7841626357,70.9,GERD,No
