@@ -26,7 +26,7 @@ This project showcases how a data engineer would solve these challenges using mo
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                     DATA SOURCES (Synthetic)                     │
+│                     DATA SOURCES (Synthetic)                    │
 ├───────────────────────────────┬─────────────────────────────────┤
 │    Pharmacy System            │         EHR System              │
 │  • Patient Demographics       │  • Patient Demographics         │
@@ -38,7 +38,7 @@ This project showcases how a data engineer would solve these challenges using mo
                 │                                │
                 ▼                                ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│                        CLOUD STORAGE                             │
+│                        CLOUD STORAGE                            │
 ├───────────────────────────────┬─────────────────────────────────┤
 │     Google Cloud Platform     │     Amazon Web Services         │
 │  • BigQuery (Data Warehouse)  │  • S3 (Data Lake)               │
@@ -49,20 +49,20 @@ This project showcases how a data engineer would solve these challenges using mo
                 │                                │
                 ▼                                ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│                      ETL & INTEGRATION                           │
-│  • Python-based ETL Pipelines                                    │
-│  • Cross-cloud Data Synchronization                              │
-│  • Data Quality Validation                                       │
-│  • Incremental Load Processing                                   │
+│                      ETL & INTEGRATION                          │
+│  • Python-based ETL Pipelines                                   │
+│  • Cross-cloud Data Synchronization                             │
+│  • Data Quality Validation                                      │
+│  • Incremental Load Processing                                  │
 └─────────────────────────────────────────────────────────────────┘
                                 │
                                 ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│                    ANALYTICS & VISUALIZATION                     │
-│  • SQL Analytics (BigQuery + Athena)                             │
-│  • Tableau Dashboards                                            │
-│  • Medication Reconciliation Reports                             │
-│  • Population Health Analytics                                   │
+│                    ANALYTICS & VISUALIZATION                    │
+│  • SQL Analytics (BigQuery + Athena)                            │
+│  • Tableau Dashboards                                           │
+│  • Medication Reconciliation Reports                            │
+│  • Population Health Analytics                                  │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
