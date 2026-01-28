@@ -473,7 +473,7 @@ Feel free to open an issue or reach out:
 
 ## 📊 Project Stats
 
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-5000+-brightgreen)
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-1000+-brightgreen)
 ![SQL Queries](https://img.shields.io/badge/SQL%20Queries-20+-blue)
 ![Cloud Platforms](https://img.shields.io/badge/Cloud%20Platforms-2-orange)
 ![Healthcare Standards](https://img.shields.io/badge/Healthcare%20Standards-5+-red)
