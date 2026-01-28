@@ -113,7 +113,7 @@ This project showcases how a data engineer would solve these challenges using mo
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR-USERNAME/healthcare-data-lake-project.git
+git clone https://github.com/John-Poulos/healthcare-data-lake-project.git
 cd healthcare-data-lake-project
 
 # Install Python dependencies
