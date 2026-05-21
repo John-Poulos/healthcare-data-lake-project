@@ -262,9 +262,9 @@ healthcare-data-lake-project/
 | Phase | Duration | Description | Status |
 |-------|----------|-------------|--------|
 | **Phase 1** | 1-2 days | Synthetic data generation | ✅ Complete |
-| **Phase 2** | 2-3 days | Cloud infrastructure setup (GCP + AWS) | 🔄 In Progress |
-| **Phase 3** | 2 days | Data upload and schema validation | ⏳ Pending |
-| **Phase 4** | 3 days | ETL pipeline development | ⏳ Pending |
+| **Phase 2** | 2-3 days | Cloud infrastructure setup (GCP + AWS) | ✅ Complete |
+| **Phase 3** | 2 days | Data upload and schema validation | ✅ Complete |
+| **Phase 4** | 3 days | ETL pipeline development | 🔄 In Progress |
 | **Phase 5** | 3 days | SQL analytics and insights | ⏳ Pending |
 | **Phase 6** | 3 days | Tableau dashboard creation | ⏳ Pending |
 | **Phase 7** | 2 days | Documentation and GitHub publication | ⏳ Pending |
