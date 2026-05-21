@@ -431,8 +431,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **John-Poulos**
 - GitHub: [@John-Poulos](https://github.com/John-Poulos)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Portfolio: [Your Portfolio URL](https://your-portfolio.com)
 
 ---
 
@@ -451,7 +449,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Feel free to open an issue or reach out:
 - **Issues**: [GitHub Issues](https://github.com/John-Poulos/healthcare-data-lake-project/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/John-Poulos/healthcare-data-lake-project/discussions)
-- **Email**: your.email@example.com
 
 ---
 
